@@ -3,10 +3,10 @@ body {
 }
 .postcard {
 	background: white;
-	width: 400px;
+	width: 400px; 
 	height: 300px;
 	margin: auto;
-	font-family: ;
+	font-family: Arial, Helvetica, sans-serif;
 }
 .postcard-header {
 	display: flex;
